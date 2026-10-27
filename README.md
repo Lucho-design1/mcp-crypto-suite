@@ -1,2 +1,3 @@
-# mcp-crypto-suite
-Plataforma web de servicios MCP para IA, herramientas de automatización y calculadora ROI de minería.
+# MCP & AI Automation Hub
+
+Despliegue web autónomo para servicios MCP, automatizaciones y calculadoras financieras con monetización directa en cripto y PayPal.
